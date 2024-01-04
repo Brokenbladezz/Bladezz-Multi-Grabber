@@ -1,50 +1,10 @@
 <h1 align="center">
    Bladezz Grabber
 </h1>
-<p align= "center">
-   <kbd>
-   </kbd><br><br>
-   <br>
-   <br>
-   <br>
-   <br>
-</p>
-
-## Project Status: Coming to an End
-
-Dear contributors and users,
-
-I hope this message finds you all well. I wanted to take a moment to share an important update regarding this project.
-
-Over the past year, we've worked together to build and improve this project. It has been an incredible journey, and I'm immensely grateful for all the contributions, feedback, and support from each one of you. This project has not only helped me improve my Python skills but has also been a great opportunity to explore and learn more about computer systems.
-
-However, as the saying goes, all good things must come to an end. As I approach the final year of my school journey, I find myself needing to focus on my academic responsibilities and make room for new opportunities ahead. Therefore, I have decided to step back from actively maintaining this project.
-
-I want to express my sincere appreciation to everyone who has participated in this project, be it through code contributions, issue reporting, or offering valuable insights. Your involvement has been the driving force behind the project's success.
-
-I'm happy to announce that noahmajors, one of the contributors to this project, has taken the initiative to fork the repository and continue its development. You can find the active fork at the following link: https://github.com/f4kedre4lity/Blank-Grabber
-
-I encourage you all to show your support to noahmajors and the new direction they will take the project. Please consider contributing to the fork if you are interested in its future development.
-
-While this marks the end of my direct involvement with this project, I sincerely hope that the codebase and knowledge shared here will continue to benefit the community.
-
-Thank you all once again for being part of this journey. I wish you all the best in your endeavors and hope our paths may cross again in the future.
-
-Best regards,  
-Blank-c
-
-## Table of Contents
-
-- [Download](#download)
-- [Features](#features)
-- [Stub Settings](#stub-settings)
-- [Requirements](#requirements)
-- [How to Build?](#how-to-build)
-- [Support the Project](#support-the-project)
 
 ## Download
 
-[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/Blank-c/Blank-Grabber/archive/refs/heads/main.zip)
+[Download
 
 **Disclaimer:** This program is provided for educational and research purposes only. The creator of this program does not condone or support any illegal or malicious activity, and will not be held responsible for any such actions taken by others who may use this program. By downloading or using this program, you acknowledge that you are solely responsible for any consequences that may result from the use of this program.
 
@@ -99,7 +59,7 @@ Blank-c
 | **Melt Stub** | Deletes the stub after use. |
 | **Pump Stub** | Pumps the stub upto the provided size. |
 | **Fake Error** | Create custom (fake) error. |
-| **Block AV Sites** | Blocks AV related sites ([Unblock](https://github.com/Blank-c/Blank-Grabber/issues/117)). |
+| **Block AV Sites** | Blocks AV related sites . |
 | **Discord Injection** | Puts backdoor on the Discord client for persistence. |
 | **UAC Bypass** | Tries to get administrator permissions without showing any prompt. |
 
@@ -116,22 +76,20 @@ Blank-c
 
 1. Download and install [Python 3](https://www.python.org/downloads/) (Make sure to enable the *Add to PATH* option.)
 2. Verify the installation by executing `python --version` in [CMD](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/?).
-3. [Download Blank Grabber](#download).
+3. [Download Bladezz Grabber].
 4. [Extract](https://www.pcworld.com/article/394871/how-to-unzip-files-in-windows-10.html#:~:text=Unzip%20all%20files%20in%20a%20ZIP%20file) the zip file.
-5. Navigate to the **Blank Grabber** folder and double click *Builder.bat* file.
+5. Navigate to the **Bladezz Grabber** folder and double click *Builder.bat* file.
 6. Fill in the fields of the builder and press the <kbd>Build</kbd> button.
-
-[![Tutorial video](https://img.shields.io/badge/Watch-Tutorial-blue?style=for-the-badge&logo=youtube)](https://streamable.com/r9sa14)
 
 ## Support the Project
 
 If you find this project useful and would like to show your support, you can make a donation using the following cryptocurrencies:
 
 - **Bitcoin (BTC):**
-  - Wallet Address: bc1quyf7d2cwrd0rgtyhtjt7ermxlw4hzg8npr4yce
+  - Wallet Address: Not yet
 
 - **Ethereum (ETH):**
-  - Wallet Address: 0x54Ab5743141c781178863e3F658d48Cb9564f520
+  - Wallet Address: Not yet
 
 - **USDT (Tron network):**
-  - Wallet Address: TJsixSZ9LDpn3ZNF8pEKmfNaNkMTrK1hWJ
+  - Wallet Address: Not yet
